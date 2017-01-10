@@ -1,4 +1,4 @@
-# Codewars solutions
+# My codewars solutions
 my solutions from codewars.com
 
 ### FUNDAMENTALS
